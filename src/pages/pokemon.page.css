@@ -1,0 +1,15 @@
+#formContainer {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+}
+
+body {
+    background-color: white;
+}
